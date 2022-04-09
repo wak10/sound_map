@@ -12,7 +12,7 @@ struct ContentView: View {
         Text("Hello, SwiftUI!")
             .foregroundColor(Color.blue)
             .padding()
-            .font(.title2)
+            .font(.headline)
     }
 }
 
