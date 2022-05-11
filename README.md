@@ -12,9 +12,10 @@
 下記項目で差別化を図る。
 
 1. 空間オーディオが無いイヤホンやヘッドホンの対応
-1. 使い慣れたUI/UXに近づける
+1. 使い慣れたUI/UXに近づける(GoogleMap kit)
 1. 地図情報のアップデート
 1. VoiceOver対応
+1. ピクチャ・イン・ピクチャに対応し、別アプリ上でも方位磁針を表示可能にする。
 
 ## 参考資料
 - [キャッチアップいろいろ](https://docs.google.com/document/d/1SZRB6t1bpmVwAxuqyL47BwpP8JCtPInVIFoaxa3Bsxo/edit?usp=sharing)
