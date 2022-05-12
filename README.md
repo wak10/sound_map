@@ -16,6 +16,7 @@
 1. 地図情報のアップデート
 1. VoiceOver対応
 1. ピクチャ・イン・ピクチャに対応し、別アプリ上でも方位磁針を表示可能にする。
+1. 点字ブロックの案内
 
 ## 参考資料
 - [キャッチアップいろいろ](https://docs.google.com/document/d/1SZRB6t1bpmVwAxuqyL47BwpP8JCtPInVIFoaxa3Bsxo/edit?usp=sharing)
